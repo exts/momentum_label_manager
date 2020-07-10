@@ -4,7 +4,6 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:momentum/momentum.dart';
 import 'package:momentum_label_manager/components/font_awesome_map.dart';
-import 'package:momentum_label_manager/domain/labels/label_data.dart';
 import 'package:momentum_label_manager/domain/labels/label_index_controller.dart';
 import 'package:momentum_label_manager/domain/labels/label_manage_controller.dart';
 import 'package:momentum_label_manager/screens/label_manager_screen.dart';

@@ -108,7 +108,7 @@ class _LabelManagerUpdateScreenState
                 decoration: InputDecoration(
                   hintText: "Enter a label name",
                 ),
-                onChanged: (value) => labelName = value,
+                onChanged: (value) => controller.updateName(value),
               ),
             ],
           ),
